@@ -20,8 +20,6 @@ def swap_elements_from_to(arr, index, destination_index)
   arr
 end
 
-puts swap_elements_from_to(["a", "b", "c"],0,2).inspect
-
 def reverse_array(arr_of_ints)
   arr_of_ints.reverse
 end
